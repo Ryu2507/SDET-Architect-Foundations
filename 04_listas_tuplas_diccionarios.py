@@ -233,3 +233,5 @@ for user in db_users:
         admins[user["user"]] = user["rol"]
 
 print(admins)
+
+
